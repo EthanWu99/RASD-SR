@@ -8,4 +8,4 @@ The source code for the **RASD-SR** framework is being released progressively. T
 
 ---
 
-> **Note**: The core **RASD-SR** implementation, including the **Score Recalibration** algorithm and the **LAW-KNN** scoring mechanism, is fully open-sourced.
+> **Note**: The core **RASD-SR** implementation, including the **Score Recalibration** algorithm is fully open-sourced.
